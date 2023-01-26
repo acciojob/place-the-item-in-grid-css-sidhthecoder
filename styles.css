@@ -1,9 +1,7 @@
-holder { 
+.holder { 
     display: grid; 
     grid-template-columns: repeat(2, 100px); 
     grid-template-rows: repeat(2, 100px); 
     grid-gap: 4px; 
-    width: 200px; 
-    height: 200px; 
 }
 /* Your CSS Code here. */
