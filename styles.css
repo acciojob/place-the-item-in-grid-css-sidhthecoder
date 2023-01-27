@@ -4,11 +4,6 @@ holder {
     grid-template-rows: repeat(2, 100px); 
     width: 200px; 
     height: 200px;
-	background-color:grey;
-}
-.item{
-	border:1px solid white;
-	color:white;
 }
 
 /* Your CSS Code here. */
