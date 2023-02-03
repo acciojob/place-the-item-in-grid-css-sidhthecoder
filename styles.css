@@ -1,8 +1,7 @@
 holder { 
     display: grid; 
-    grid-template-rows: (200px, 200px); 
-	grid-template-columns: (200px, 200px); 
-    
+    grid-template-rows: repeat(200px, 200px); 
+	grid-template-columns: repeat(200px, 200px); 
     width: 200px; 
     height: 200px;
 }
