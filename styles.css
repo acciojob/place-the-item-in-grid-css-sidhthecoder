@@ -1,4 +1,4 @@
-holder { 
+.holder { 
     display: grid; 
     grid-template-rows: repeat(2, 200px); 
 	grid-template-columns: repeat(2, 200px); 
